@@ -36,6 +36,9 @@ for i in range(1, len(equation)):
 print("Horner's Algorithm: ")
 print(s)
 
+# TO DO
+# Add time and memory tracking with timeit and memory_profiler
+# Add original power method solution and solution using optimized power method
 
 # def power(n, p):
 #     for k in range(1, p):
